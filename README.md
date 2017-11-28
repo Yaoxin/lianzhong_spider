@@ -15,7 +15,7 @@
 
     ```shell
     virtualenv .env
-    .env/bin/pip install requirements.txt
+    .env/bin/pip install -r requirements.txt
     ```
 
 
